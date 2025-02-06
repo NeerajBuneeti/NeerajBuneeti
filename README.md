@@ -1,16 +1,43 @@
-## Hi there 👋
+### 👋 Hi, I’m Neeraj Vardhan Buneeti 
+**Data Scientist | Turning Marine Data into Actionable AI**  
+*MS Data Science @ Illinois Tech | Python, Azure, Power BI*  
 
-<!--
-**NeerajBuneeti/NeerajBuneeti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Chicago, IL | 📫 [LinkedIn]([link](https://www.linkedin.com/in/neeraj-vardhan-buneeti/)) | ✉️ [Email](neeraj.vardhan23@gmail.com)  
 
-Here are some ideas to get you started:
+---  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects That Matter  
+#### **1. Marine Conservation Dashboard**  
+**Problem**: Researchers struggled to analyze scattered marine data (dolphin sightings, coral health).  
+**Solution**: Built Python pipelines + Azure integration to unify datasets.  
+**Impact**:  
+- 40% faster data processing.  
+- 30% higher researcher engagement.  
+**Tech**: Python, Azure, pandas, Power BI  
+
+#### **2. Butterfly Species Classifier**  
+**Problem**: Low accuracy in identifying endangered butterflies.  
+**Solution**: Hybrid CNN (VGG19 + ResNet50) with custom loss functions.  
+**Impact**:  
+- 88.82% accuracy.  
+- 25% faster training time.  
+**Tech**: TensorFlow, Keras, OpenCV  
+
+#### **3. LabelMaster Ad Optimization**  
+**Problem**: Wasted ad spend due to poor data visibility.  
+**Solution**: Power BI dashboards integrating Google Ads + transaction data.  
+**Impact**: 15% reduction in wasted spend.  
+**Tech**: Power BI, SQL, DAX  
+
+---  
+
+### 🛠️ What I Do Best  
+- **Python**: Data pipelines, AI models, automation.  
+- **Azure**: Cloud deployment, cost optimization.  
+- **Power BI**: Turning raw data into stakeholder-ready insights.  
+- **Sustainability**: Proven by my work at REEF Scuba.  
+
+---  
+
+### 🌱 Let’s Connect!  
+Open to roles in **Generative AI, Data Engineering, or Business Intelligence**.  
