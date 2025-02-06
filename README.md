@@ -39,5 +39,9 @@
 
 ---  
 
+![Python](https://img.shields.io/badge/Python-Expert-green)  
+![Azure](https://img.shields.io/badge/Azure-Intermediate-blue)  
+
+
 ### 🌱 Let’s Connect!  
 Open to roles in **Generative AI, Data Engineering, or Business Intelligence**.  
