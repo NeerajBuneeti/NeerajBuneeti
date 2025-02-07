@@ -2,7 +2,7 @@
 **Data Scientist | Turning Marine Data into Actionable AI**  
 *MS Data Science @ Illinois Tech | Python, Azure, Power BI*  
 
-📍 Chicago, IL | 📫 [LinkedIn]([link]((https://www.linkedin.com/in/neeraj-vardhan-buneeti/)) | ✉️ [Email](neerajvardhanbuneeti@gmail.com)  
+📍 Chicago, IL | 📫 [LinkedIn](https://www.linkedin.com/in/neeraj-vardhan-buneeti/) | ✉️ [Email](neerajvardhanbuneeti@gmail.com)  
 
 ---  
 
